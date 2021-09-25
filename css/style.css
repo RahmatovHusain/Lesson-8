@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#4F696A;
+}
+.box {
+    padding: 5px 25px;
+    background-color: #102020;
+    width: 50%;
+    margin:30px auto;
+    text-align: center;
+}
+.box h1 {
+    color: #DCE6E8;
+    text-transform: uppercase;
+}
+.box img {
+    margin-top: 20px;
+    width: 80%;
+}
+.box p{
+    margin-top: 0;
+    color: #96A4A5;
+}
+.box h2 {
+    text-transform: uppercase;
+    color: #96A4A5
+}
